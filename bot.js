@@ -86,4 +86,4 @@ message.channel.send(saymessage)
 }
 });
 
-client.login(process.env.NTE1NjE0MDY2ODA3NTM3NjY0.DtrpiA.5tI8yZ9EKpx383AXazSHGnW6Neo);
+client.login(process.env.BOT_TOKEN);
